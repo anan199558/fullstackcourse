@@ -1,0 +1,65 @@
+fieldset{border-radius: 30px;
+        border-color: yellowgreen;}
+body{
+    background-color: #c9f1fd;}
+                                    
+.mynav{
+    font-size: 30px;
+    font-style: italic;
+    background-color: #c9f1fd;
+    text-align: center;
+    }
+.a-container{background-color: rgb(2, 82, 104);}
+.a-container p{color: white; margin-right: 80px;}
+.a-container h2{color: white; font-size: 50px; margin-right: 80px;}
+.a-container h3{color:white; font-size: 20px;margin-right: 80px}
+.a-container label{background-color:blue; color:white;
+                    margin-right: 80px; 
+                     float: right;
+                   height: 20px; 
+                   width: 100px;
+                    text-align: center;
+                padding-top: 5px;
+                text-align: center;}
+p{
+    font-size: 20px;
+}
+
+a:link{
+    color:white;
+    }
+
+a:hover{
+    color:yellow;}
+.a-container img{
+          width:150px; height: 150px; float: left;}
+
+.b-container p{
+   display: inline-block;}
+.b-container img{
+    float: left;}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;}
+.c-container{background-color: rgb(91, 192, 222);
+         margin-top: 80px;
+        text-align: center;}
+.myform input{
+        width: 300px;
+        height: 20px;
+        border-color: darkblue;  
+        border-radius: 20px;
+        border-style: double;}
+textarea{ border-color: darkblue;  
+    border-radius: 20px;
+    border-style: double;}
+.footer1{background-color: rgb(91, 192, 222);}
+.footer1 p:first-of-type {
+        background: #ff0000; text-align: center;}
+.footer1 a:last-of-type {
+        background: #ff0000;}
+.footer1 a:nth-of-type(1) {
+         background: green;}
+.footer1 a:nth-of-type(2) {
+        background: aqua;}
